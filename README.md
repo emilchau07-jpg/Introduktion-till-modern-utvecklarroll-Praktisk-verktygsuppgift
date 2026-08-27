@@ -1,0 +1,2 @@
+# Introduktion till modern utvecklarroll – Praktisk verktygsuppgift
+I denna övningen introducerades jag till terminalen Git, Github och VS code. Syftet är att förstå grunderna i hur jag kan redigera och navigera mig i filsystem, dokumentation och repository. Jag har förstått att en README.md används för att ge en snabb överblick på projektet och varför det existerar.
