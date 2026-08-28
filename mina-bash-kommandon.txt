@@ -3,4 +3,4 @@ mkdir Intro - För att skapa en kursmapp och döpte den till "Intro"
 cd Intro - För att gå in i kursmappen
 mkdir verktygsupg - För att skapa en projektmapp i kursmappen och döpte den till "verktygsupg"
 cd verktygsupg - För att gå in i projektmappen
-touch mina-bash-kommandon.txt - För att skapa en textfil i projektmappen
+touch mina - bash-kommandon.txt - För att skapa en textfil i projektmappen
